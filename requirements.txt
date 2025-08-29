@@ -1,0 +1,5 @@
+
+spacy
+pyPDf
+pandas
+streamlit
